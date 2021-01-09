@@ -256,3 +256,6 @@ Mangalore, Karnataka, India
 Monterrey, Nuevo Leon, Mexico 
 Seattle, Washington, United States
 Mathura, Uttar Pradesh, India
+Buffalo, New York, United States
+Salt Lake City, Utah, United States
+Chennai, Tamilnadu, India
